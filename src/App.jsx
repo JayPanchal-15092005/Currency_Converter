@@ -4,13 +4,14 @@ import { Analytics } from "@vercel/analytics/react;"
 
 function App() {
   return (
-    <div>
+   <div>
+     <div>
       <CurrencyConverter />
-      <div>
-        <Analytics />
-      </div>
     </div>
-    
+    <div>
+      <Analytics />
+    </div>
+   </div>
   );
 }
 
