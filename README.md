@@ -1,0 +1,1 @@
+Currency converter is a project coded in Javascript and React. This simple application provides a web-based interface for converting money from one currency (say $) to another currency (say €).
