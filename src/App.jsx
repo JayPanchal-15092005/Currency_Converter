@@ -6,7 +6,9 @@ function App() {
   return (
     <div>
       <CurrencyConverter />
-      <Analytics />
+      <div>
+        <Analytics />
+      </div>
     </div>
     
   );
